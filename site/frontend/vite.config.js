@@ -12,8 +12,8 @@ export default defineConfig({
         "name":"Tadpole Organisation",
         "short_name":"Tadpole",
         "display": "standalone",
-        "background_color": "#071952",
-        "theme_color": "#071952",
+        "background_color": "#02343F",
+        "theme_color": "#02343F",
         "icons":[
           {
             src: "Business/Tadpole/favicon_io/android-chrome-512x512.png",
